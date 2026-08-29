@@ -22,16 +22,16 @@ tmp/
 .adk/
 
 # Environment Variables & Secrets
-.env
 *.env
 *.json
 !package.json
 
 # IDE Settings
-.vscode/
 .idea/
 *.swp
 *.swo
 
 # Logs
 *.log
+config.bat
+node_modules
